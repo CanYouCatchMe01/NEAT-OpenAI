@@ -1,0 +1,1 @@
+This is a project where the I solve some the [OpenAI gym](https://www.gymlibrary.ml/) games with [NEAT](https://github.com/CodeReclaimers/neat-python) (NeuroEvolution of Augmenting Topologies)
